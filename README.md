@@ -17,6 +17,6 @@ Although Chevron appears slightly less volatile visually, ExxonMobil delivers **
 Python, Pandas, NumPy, Matplotlib, yfinance, Google Colab
 
 ### Links
-📘 Google Colab Notebook: https://www.notion.so/Stock-Comparison-XOM-v-s-CVX-2f927c730c0a80d49c3aeeda5166f27d?source=copy_link
+📘 Google Colab Notebook: https://colab.research.google.com/drive/15v4fed7hju5VbxNy88YXq8R18IvIcF-0?usp=sharing 
 
 🧠 Notion Project Summary: https://www.notion.so/Stock-Comparison-XOM-v-s-CVX-2f927c730c0a80d49c3aeeda5166f27d?source=copy_link
